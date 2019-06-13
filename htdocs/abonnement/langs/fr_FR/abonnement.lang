@@ -1,0 +1,124 @@
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Générique
+#
+
+# Module label 'ModuleXXXName'
+# (where XXX is value of numeric property 'numero' of module)
+Module600001Name = Abonnement
+Abonnement = Abonnement
+# Module description 'ModuleXXXDesc'
+# (where XXX is value of numeric property 'numero' of module)
+Module600001Desc = Gestion d'abonnement
+
+AbonneWeb = Abonnés web
+AbonnePapier = Abonnés papier
+ContactList = Liste des contacts
+
+#
+# Page d'administration
+#
+AbonnementSetup = Configuration du module Abonnement
+SettingsAbonnement = Réglages
+AbonnementSetupPage = Page de réglages du module Abonnement
+AbonnementNbDayDefaultClosure = Nombre de jours à ajouter à la date du jour pour obtenir la date de clôture par défaut
+AbonnementAdmVar=Administration
+AbonnementUserGroupAffect = Limiter les utilisateurs affectables à une affaire au groupe
+AbonnementAUT = Abonnement Automatique
+NBAbonnement = Nombre de relances
+NBRE_JOURS_AVANT_RENOUVELLEMENT = Nombre de jours avant le renouvellement de l'abonnement
+NBRE_MAX_ABONNE_WEB = Nombre maximum d'abonnés web
+ABONListTropPercu = Facture trop perçu
+PROFIL_CLIENT = Profil par défaut du client
+PROFIL_ABONNE_WEB = Profil d'abonné web
+NBEXEMPLAIRES = Nombre  d'exemplaires
+SITE = Revue
+SITEID = ID revue
+PROFIL_USER = Mon profil
+#
+# Page À propos
+#
+About = À propos
+RelanceAbout = À propos du module relance
+RelanceAboutPage = Page à propos du module relance
+CONTACTOFROUTERSIMPLE = ROUTEUR EXEMPLAIRES UNIQUES
+CONTACTOFROUTERETRANGER = ROUTEUR ETRANGER
+CONTACTOFROUTERMULTI = ROUTEUR PLUSIEURS EXEMPLAIRES
+#
+# Permissions
+#
+Permission1031111=Voir les affaires
+
+#
+# Dictionnaires
+#
+
+
+#
+# Menu
+#
+MenuReAbonnement=Gestion Réabonnements
+AbonnementList= Propositions à envoyer
+REABONNEMENTATTENTE = Propositions en attente               
+AbonnementInfo = Historique 
+AbonnementCreate=Nouvel Abonnement
+AbonnementContact=Contact Abonnements
+AbonnementListCurrent=Abonnements en cours
+AbonnementListMyLead=Mes Abonnements
+AbonnementListLate=Abonnements en retard
+ABON_NBRE_JOURS = Nbre Jours
+AddAbonne = Nouvel abonné
+AbonImportReleve = Relevé bancaire ING(CSV)
+AbonImportReleveNouveau = Nouvel import
+ABONNECONTRACT = Abonnés de ce contrat
+TexteDocument = Texte des factures et commandes
+#
+# Status
+#
+
+
+#
+# Type
+#
+
+#
+# Réabonnement
+#
+AbonContratChecked=Aucun contrat n'a été sélectionné
+EnvoiReconduction = Envoyer les réabonnements
+AllRecipientSelectedForReabonnement=Tous les tiers sélectionnés et qui ont un email défini (notez qu'un email par contrat sera envoyé)
+
+AbonAjoutSucces = L'abonné a été ajouté
+AbonAttacheFactureEMail=Un document utilisant le modèle par défaut de facture sera généré et attaché à l'email.
+AbonAuncuneFatureEnvoiyer = Aucun email de réabonnement  envoyé
+AbonEnvoiReabonnement = %s réabonnement(s) envoyé(s).
+MailTopicSendInvoices = Résultat de l'envoi des réabonnements en masse par email
+sendReabonnement = Envoyer les factures de réabonnement
+# Export
+#
+CONTACTPAPERCONTRACT = Contacts Papiers
+contrat_line = Ligne de contrat
+CONTACTOFCONTRACT = Contact par contrat 
+#
+# List
+REABONNEMENTLIST = Liste des réabonnements
+
+#
+# Graph
+#
+
+#
+# Boxes
+#

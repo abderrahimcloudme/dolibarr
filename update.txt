@@ -1,0 +1,12 @@
+- langs/fr_FR/stockes.lang
+
+- htdocs/core/menus/standardeldy.lib.php
+
+- llx_user_project.sql
+
+- llx_user_project.key.sql
+
+- user\class\user.class.php
+
+
+- core\lib\product.lib.php
